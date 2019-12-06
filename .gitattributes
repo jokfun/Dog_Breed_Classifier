@@ -1,1 +1,1 @@
-'*.data*' filter=lfs diff=lfs merge=lfs -text
+C:/Users/Raphael/Desktop/temp/second/dog_classifier.tfl.ckpt-24700.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
