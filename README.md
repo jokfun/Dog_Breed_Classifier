@@ -18,7 +18,7 @@ python  testme.py [path_of_the_dog_pictures]
 
 Stable Version (must have a nvidia gpu):
 1. Install 10.0 CUDA version [here](https://developer.nvidia.com/cuda-10.0-download-archive)
-1. Instal cudnn for the 10.0 CUDA version [here](https://developer.nvidia.com/rdp/form/cudnn-download-survey)[help here](https://docs.nvidia.com/deeplearning/sdk/cudnn-install/index.html)
+1. Instal cudnn for the 10.0 CUDA version [here](https://developer.nvidia.com/rdp/form/cudnn-download-survey)([help here](https://docs.nvidia.com/deeplearning/sdk/cudnn-install/index.html))
 1. Upload your pip with the requirements.txt file (doesn't work with tensorflow 2.0, must use the 1.15.0 one)
 
 ## Create your own dataset
