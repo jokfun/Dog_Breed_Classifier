@@ -89,8 +89,7 @@ Make sure you have moved the cudnn files.
 
 ## Data set reference 
 
-Aditya Khosla, Nityananda Jayadevaprakash, Bangpeng Yao and Li Fei-Fei. Novel dataset for Fine-Grained Image Categorization. First Workshop on Fine-Grained Visual Categorization (FGVC), IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2011.
-[Link](http://vision.stanford.edu/aditya86/ImageNetDogs/)
+[Aditya Khosla, Nityananda Jayadevaprakash, Bangpeng Yao and Li Fei-Fei. Novel dataset for Fine-Grained Image Categorization. First Workshop on Fine-Grained Visual Categorization (FGVC), IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2011.](http://vision.stanford.edu/aditya86/ImageNetDogs/)
 
 ## License
 
@@ -98,5 +97,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-convolutional neural networks [link](https://www.jeremyjordan.me/convnet-architectures/)
+[Convolutional neural networks](https://www.jeremyjordan.me/convnet-architectures/)
 
