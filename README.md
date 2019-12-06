@@ -18,7 +18,7 @@ python  testme.py [path_of_the_dog_pictures]
 
 Stable Version (must have a nvidia gpu):
 1. Install 10.0 CUDA version [here](https://developer.nvidia.com/cuda-10.0-download-archive)
-1. Instal cudnn for the 10.0 CUDA version [here](https://developer.nvidia.com/rdp/form/cudnn-download-survey)[help here](https://docs.nvidia.com/deeplearning/sdk/cudnn-install/index.html)
+1. Instal cudnn for the 10.0 CUDA version [here](https://developer.nvidia.com/rdp/form/cudnn-download-survey)([help here](https://docs.nvidia.com/deeplearning/sdk/cudnn-install/index.html))
 1. Upload your pip with the requirements.txt file (doesn't work with tensorflow 2.0, must use the 1.15.0 one)
 
 ## Create your own dataset
@@ -89,8 +89,7 @@ Make sure you have moved the cudnn files.
 
 ## Data set reference 
 
-Aditya Khosla, Nityananda Jayadevaprakash, Bangpeng Yao and Li Fei-Fei. Novel dataset for Fine-Grained Image Categorization. First Workshop on Fine-Grained Visual Categorization (FGVC), IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2011.
-[Link](http://vision.stanford.edu/aditya86/ImageNetDogs/)
+[Aditya Khosla, Nityananda Jayadevaprakash, Bangpeng Yao and Li Fei-Fei. Novel dataset for Fine-Grained Image Categorization. First Workshop on Fine-Grained Visual Categorization (FGVC), IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2011.](http://vision.stanford.edu/aditya86/ImageNetDogs/)
 
 ## License
 
@@ -98,5 +97,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-convolutional neural networks [link](https://www.jeremyjordan.me/convnet-architectures/)
+[Convolutional neural networks](https://www.jeremyjordan.me/convnet-architectures/)
 
